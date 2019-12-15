@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.card {
+  width: 150px;
+  height: 400x;
+  border: 5px solid #49882b;
+  margin: 20px;
+  border: 5px 5px 10px rgba(0, 0, 0, 0.5);
+}
+.userprop_wrap {
+  padding: 5px;
+  border: 0.001em dashed black;
+}
